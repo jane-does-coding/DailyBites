@@ -42,7 +42,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/jane-does-coding/cooking-website
+  git clone https://github.com/jane-does-coding/DilyBites
 ```
 
 Go to the project directory
